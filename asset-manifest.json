@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tally/static/css/main.e6c13ad2.css",
+    "main.js": "/tally/static/js/main.2c44790f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/tally/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/tally/index.html",
+    "main.e6c13ad2.css.map": "/tally/static/css/main.e6c13ad2.css.map",
+    "main.2c44790f.js.map": "/tally/static/js/main.2c44790f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/tally/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2c44790f.js"
+  ]
+}
